@@ -22,3 +22,4 @@ These are a range of existing labs you can tackle on the day - we have tried to 
 - https://docs.microsoft.com/en-us/azure/virtual-machines/linux/#Step-by-Step-Tutorials - IT Pro (Linux)
 - https://azure.microsoft.com/en-us/training/hands-on-labs/ - Microsoft Hands-on-labs
 - https://www.microsoft.com/handsonlabs/SelfPacedLabs - Microsoft Hands-on-labs
+- https://academy.microsoft.com/en-us/professional-program/tracks/devops/ - Academy DevOps Course
